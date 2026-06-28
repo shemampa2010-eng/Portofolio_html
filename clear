@@ -1,0 +1,35 @@
+[33mcommit 6584d893c03bfe529cba519863012e90429d6c17[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Paulin <shemampa2010@gmail.com>
+Date:   Sun Jun 28 12:02:22 2026 +0200
+
+    added font size and text decoration
+
+[33mcommit 9a7b3de93218219d7b6fd0a002493c19ac0fe07e[m
+Author: Paulin <shemampa2010@gmail.com>
+Date:   Sun Jun 28 12:00:06 2026 +0200
+
+    added font-style italic
+
+[33mcommit 22b2318849aef1abd47a1ccfdc183eb3f45ef33b[m
+Author: Paulin <shemampa2010@gmail.com>
+Date:   Sun Jun 28 11:58:23 2026 +0200
+
+    Added a new font called Bitcount Single
+
+[33mcommit 4797df244ad821d0a1febff60810f88e79c36c9c[m
+Author: Paulin <shemampa2010@gmail.com>
+Date:   Sun Jun 28 11:44:24 2026 +0200
+
+    Added some CSS to my portofolio
+
+[33mcommit 65fe6cb3be62de7e137f4e172e36c71b4aa52755[m
+Author: Paulin <shemampa2010@gmail.com>
+Date:   Sat Jun 27 17:20:18 2026 +0200
+
+    Trojan commit
+
+[33mcommit 360d1d818e624d7525699b90a645d86f9d92001f[m
+Author: Paulin <shemampa2010@gmail.com>
+Date:   Sat Jun 27 17:16:31 2026 +0200
+
+    Le squelette de mon portofolio
