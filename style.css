@@ -1,0 +1,11 @@
+body{
+    background-color: coral;
+}
+h1{
+    background-color: rgb(19, 220, 56); color: rgb(2, 2, 219);
+}
+p{
+    background-color: antiquewhite; color: blue;
+    font-family: "Embeded Code", consolas;
+}
+
